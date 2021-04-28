@@ -82,6 +82,10 @@ a{
 .inputbrowser{
     margin-left: 500px;
 }
+.inputjumbotron {
+    display: inline-block;
+    vertical-align: middle;
+}
 .scarica{
     border: 0;
     color: black;
