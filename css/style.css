@@ -80,27 +80,34 @@ a{
 }
 /* input jumbotron */
 .inputbrowser{
-    margin-left: 500px;
+    text-align: center;
 }
 .inputjumbotron {
     display: inline-block;
     vertical-align: middle;
+    padding-left: 15px;
 }
 .scarica{
     border: 0;
     color: black;
     background-color: white;
     border-radius: 30px;
-    height: 35px;
-    width:150px;
-    font-size: 10px;
+    height: 50px;
+    width:200px;
+    font-size: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    cursor: pointer;
 }
 .apri{
     border: 0;
-    color: black;
-    background-color: white;
+    color:white;
+    background-color:black;
     border-radius: 30px;
-    height: 35px;
-    width:150px;
-    font-size: 10px;
+    height: 50px;
+    width:300px;
+    font-size: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    cursor: pointer;
 }
