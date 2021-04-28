@@ -78,4 +78,8 @@ a{
 .jumbotrontesto{
     padding-top: 100px;
 }
+/* input jumbotron */
+.scarica:after{
+    content:"\f309"
 
+}
