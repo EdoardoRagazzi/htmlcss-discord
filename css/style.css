@@ -5,9 +5,7 @@
     box-sizing: border-box;
     font-family: 'Zen Dots', cursive;
 }
-.debug{
-    background-color:#3161E0;
-}
+
 
 /* header */
 header{
@@ -16,6 +14,7 @@ header{
     line-height: 100px;
     position: relative;
     font-size: 15px;
+    background-color: #255EE9;
 }
 /* logo */
 svg{
@@ -117,6 +116,8 @@ a{
     cursor: pointer;
 }
 /* fine input jumbotron */
+
+/* inizio prima section */
 .clearfix::after{
     content: "";
     clear: both;
@@ -124,8 +125,8 @@ a{
 }
 .imgstudygroup svg{
     float: left;
-    width: 500px;
-    height: 500px;
+    width: 700px;
+    height: 600px;
     margin-left: 300px;
 }
 .textstudygroup {
@@ -140,7 +141,44 @@ a{
 h2{
     padding-bottom: 20px;
 }
+/* fine prima section */
 
+/* seconda section */
+ .secondo{
+    background-color:#F6F6F6;
+}
+.imgjustchillin svg{
+    float: right;
+    width: 700px;
+    height: 600px;
+    margin-right: 300px;
+}
+.textjustchillin{
+    float: left;
+    width: 500px;
+    height: 400px;
+    padding-top: 120px;
+    padding-left: 200px;
+    font-size: 20px;
+    line-height: 1.4;
+}
+/* fine secodna section */
+/* inizio terza section */
+.imgterza svg{
+    float: left;
+    width: 700px;
+    height: 600px;
+    margin-left: 300px;
+}
+.textterza {
+    float: left;
+    width: 400px;
+    height: 500px;
+    padding-top: 120px;
+    padding-left: 100px;
+    font-size: 20px;
+    line-height: 1.4;
+}
 
 
 
