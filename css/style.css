@@ -88,6 +88,7 @@ a{
     padding-left: 15px;
 }
 .scarica{
+    line-height: 50px;
     border: 0;
     color: black;
     background-color: white;
@@ -100,6 +101,7 @@ a{
     cursor: pointer;
 }
 .apri{
+    line-height: 50px;
     border: 0;
     color:white;
     background-color:black;
