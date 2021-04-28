@@ -79,7 +79,24 @@ a{
     padding-top: 100px;
 }
 /* input jumbotron */
-.scarica:after{
-    content:"\f309"
-
+.inputbrowser{
+    margin-left: 500px;
+}
+.scarica{
+    border: 0;
+    color: black;
+    background-color: white;
+    border-radius: 30px;
+    height: 35px;
+    width:150px;
+    font-size: 10px;
+}
+.apri{
+    border: 0;
+    color: black;
+    background-color: white;
+    border-radius: 30px;
+    height: 35px;
+    width:150px;
+    font-size: 10px;
 }
